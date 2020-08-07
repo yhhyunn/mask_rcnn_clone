@@ -1,0 +1,13 @@
+{
+  "folders": [
+    {
+      "path": "."
+    },
+    {
+      "path": "..\\..\\00_MLDL\\00_BreadBrother\\01_Mask_RCNN\\Mask_RCNN-master-bb"
+    }
+  ],
+  "settings": {
+    "python.pythonPath": "C:\\Users\\user\\anaconda3\\envs\\peakdetection\\python.exe"
+  }
+}
